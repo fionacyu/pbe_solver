@@ -1,0 +1,11 @@
+scale=2.500000
+indi=1.000000
+exdi=78.540000
+prbrad=1.400000
+salt=0.00
+bndcon=4
+rmsc=0.0001
+temper=26.850000
+conint=10
+perfil=50
+energy(s,c)
